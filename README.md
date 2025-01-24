@@ -1,5 +1,4 @@
-# Coming Soon Page  
-![Project Logo](https://github.com/user-attachments/assets/your_project_logo_url_here)  
+# Coming Soon Page   
 
 ## Overview  
 The **Coming Soon Page** is a sleek and responsive single-page application built with **Next.js** and **TypeScript**. It features a countdown timer to the launch date, ensuring a professional and engaging way to inform users about an upcoming product, service, or event.  
@@ -40,3 +39,28 @@ To set up the Coming Soon Page on your local machine, follow these steps:
    ```bash
    http://localhost:3000  
    ```
+
+
+
+## Contributions
+Contributions are welcome! If you’d like to improve the page, add new features, or report any bugs, feel free to:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Submit a pull request for review.
+
+
+## **Missing Features / Known Issues**
+I acknowledge that many features are currently missing from the website due to time constraints. If you can help, I would truly appreciate it! Please address any of the issues listed above, or feel free to identify additional ones. Here are some potential features that could be added:
+- Email Subscription Form: A feature to allow users to sign up for updates before the launch is not yet implemented.
+- Animations: Adding subtle animations for a more engaging user experience is pending.
+
+## If you’d like to contribute to adding these features or notice any additional improvements, feel free to reach out at ecoding45@gmail.com!
+
+## Learn By Watching Video ▶️
+[![Watch Demo Video]()
+
+## Future Enhancements
+1. Add an email subscription form to capture user emails for updates.
+2. Implement smooth page animations for better interactivity.
+3. Add a theme toggle (light/dark mode).
